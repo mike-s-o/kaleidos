@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kaleidos/static/css/main.b4ce7b8d.chunk.css",
+    "main.js": "/kaleidos/static/js/main.b0cb6228.chunk.js",
+    "main.js.map": "/kaleidos/static/js/main.b0cb6228.chunk.js.map",
+    "runtime~main.js": "/kaleidos/static/js/runtime~main.b950cada.js",
+    "runtime~main.js.map": "/kaleidos/static/js/runtime~main.b950cada.js.map",
+    "static/js/2.62c03a3f.chunk.js": "/kaleidos/static/js/2.62c03a3f.chunk.js",
+    "static/js/2.62c03a3f.chunk.js.map": "/kaleidos/static/js/2.62c03a3f.chunk.js.map",
+    "index.html": "/kaleidos/index.html",
+    "precache-manifest.99ee39c83b188f3770826e4e24a80e1d.js": "/kaleidos/precache-manifest.99ee39c83b188f3770826e4e24a80e1d.js",
+    "service-worker.js": "/kaleidos/service-worker.js",
+    "static/css/main.b4ce7b8d.chunk.css.map": "/kaleidos/static/css/main.b4ce7b8d.chunk.css.map",
+    "static/media/logo.svg": "/kaleidos/static/media/logo.5d5d9eef.svg"
+  }
+}
